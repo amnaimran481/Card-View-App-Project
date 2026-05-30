@@ -3,7 +3,7 @@
 
 # Mobile App Development Assignment
 
-## Card View Project
+## Card View App Project
 
 ### Student Information
 
