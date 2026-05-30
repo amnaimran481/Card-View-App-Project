@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-The Card View Project is an Android application developed using Java in Android Studio. The application demonstrates the implementation of RecyclerView and CardView components to display course information in an organized and visually appealing card-based layout.
+The Card View App Project is an Android application developed using Java in Android Studio. The application demonstrates the implementation of RecyclerView and CardView components to display course information in an organized and visually appealing card-based layout.
 
 The project allows users to browse various courses, view course descriptions, ratings, and related images through an interactive user interface. Clicking on a course card navigates the user to a detailed screen containing additional information about the selected course.
 
