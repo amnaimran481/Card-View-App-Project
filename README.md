@@ -7,11 +7,11 @@
 
 ### Student Information
 
-**Name:** Amna Imran 
-**Registration Number:** 2023-ag-9504 
-**University:** University of Agriculture, Faisalabad (UAF)  
-**Department:** Computer Science 
-**Course:** Mobile App Development  
+**Name:** Amna Imran   
+**Registration Number:** 2023-ag-9504   
+**University:** University of Agriculture, Faisalabad (UAF)   
+**Department:** Computer Science  
+**Course:** Mobile App Development    
 
 ---
 
